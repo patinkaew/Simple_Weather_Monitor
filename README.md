@@ -1,4 +1,4 @@
-# Simple_Weather_Monitor
+# Simple Weather Monitor
 
 Hardware: Arduino Board (I use Arduino Nano), BME280 Weather Sensor, LCD Screen (16x2)
 
